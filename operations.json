@@ -1,0 +1,34 @@
+{
+  "balance": [
+    6968
+  ],
+  "associates": 3,
+  "operations": [
+    {
+      "date": null,
+      "users": [
+        {
+          "name": "Itshak",
+          "sharePourcentage": 27.03,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Shaul",
+          "sharePourcentage": 27.03,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Yonathan",
+          "sharePourcentage": 80.5,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        }
+      ]
+    }
+  ]
+}

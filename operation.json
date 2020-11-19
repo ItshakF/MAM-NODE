@@ -1,0 +1,61 @@
+{
+  "balance": [
+    6968,
+    7000
+  ],
+  "associates": 3,
+  "operations": [
+    {
+      "dates": 1111,
+      "users": [
+        {
+          "name": "Itshak",
+          "sharePourcentage": 27.03,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Shaul",
+          "sharePourcentage": 27.03,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Yonathan",
+          "sharePourcentage": 27.03,
+          "translatedValue": 1882,
+          "payBot": false,
+          "profitDeduce": null
+        }
+      ]
+    },
+    {
+      "date": null,
+      "users": [
+        {
+          "name": "Itshak",
+          "sharePourcentage": 27.2,
+          "translatedValue": 2000,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Shaul",
+          "sharePourcentage": 45.2,
+          "translatedValue": 5000,
+          "payBot": false,
+          "profitDeduce": null
+        },
+        {
+          "name": "Yonathan",
+          "sharePourcentage": 30,
+          "translatedValue": 500,
+          "payBot": false,
+          "profitDeduce": null
+        }
+      ]
+    }
+  ]
+}
